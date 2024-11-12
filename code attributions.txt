@@ -1,0 +1,10 @@
+Code generated with the assistance of Gemini Advanced, a large language model from Google AI. 
+ 
+References:
+ 
+Oracle. (n.d.). GridBagLayout (Java Platform SE 7 ). [online] Available at: https://docs.oracle.com/javase/7/docs/api/java/awt/GridBagLayout.html.
+ 
+Eck, D. J. (2019). Introduction to programming using Java, version 8.1. [online] Available at: http://math.hws.edu/javanotes.
+ 
+Liang, Y. D. (2019). Introduction to Java programming and data structures: comprehensive version. Pearson Education, Inc.
+
